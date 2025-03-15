@@ -10,7 +10,6 @@ Um conversor de moedas moderno e intuitivo que permite converter diferentes moed
   - Euro (EUR)
   - Libra Esterlina (GBP)
 - Interface responsiva e amigável
-- Atualizações em tempo real das taxas de câmbio
 - Design moderno e minimalista
 
 ## 🛠️ Tecnologias Utilizadas
@@ -37,7 +36,7 @@ O projeto possui uma interface intuitiva com:
 - Campo para inserção do valor
 - Seletor de moeda
 - Botão de conversão
-- Exibição do resultado e taxa de câmbio atual
+- Exibição do resultado
 
 ## 🎨 Personalização
 
@@ -47,14 +46,4 @@ O projeto utiliza um arquivo CSS separado (`styles.css`) para estilização, per
 
 O conversor é totalmente responsivo e se adapta a diferentes tamanhos de tela, proporcionando uma ótima experiência tanto em dispositivos móveis quanto em desktops.
 
-## 🤝 Contribuição
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
-
-Desenvolvido com ❤️ 
